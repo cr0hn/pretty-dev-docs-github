@@ -35,11 +35,10 @@ Install
 
 Just clone the repo and copy the `docs` folder in your project.
 
-```bash
+.. code-block:: bash
 
-> git clone https://github.com/cr0hn/pretty-dev-docs-github.git
-> cp -R docs/ YOUR_PROJECT/
-```
+    > git clone https://github.com/cr0hn/pretty-dev-docs-github.git
+    > cp -R docs/ YOUR_PROJECT/
 
 Configuration parameters
 ========================
