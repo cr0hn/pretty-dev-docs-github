@@ -1,7 +1,7 @@
 Pretty Developer Docs for GitHub (PDDG)
 =======================================
 
-*Pretty Developer Docs for GitHub (PDDG): Easy building develop documentation, user manuals & beautiful website using GitHub pages*
+*Pretty Developer Docs for GitHub (PDDG): Pretty Developer Docs for GitHub (PDDG): Easy builder develop documentation, user manuals & beautiful website using GitHub pages*
 
 +----------------+--------------------------------------------------------+
 |Project site    | https://github.com/cr0hn/pretty-dev-docs-github        |
