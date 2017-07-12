@@ -23,19 +23,29 @@ What problem solve IdsFree?
 
 It's based on template on `Pretty Docs Template <https://themes.3rdwavemedia.com/demo/prettydocs/>`_.
 
-
-
 How it works?
 =============
 
+PDDG is a scaffolding that uses Jekyll engine to create a complete website.
+
+Jekyll is used by Github to build their Github-pages, so, we can create beautiful project pages creating a custom Jekyll template.
+
 Install
 =======
+
+Just clone the repo and copy the `docs` folder in your project.
+
+```bash
+
+> git clone https://github.com/cr0hn/pretty-dev-docs-github.git
+> cp -R docs/ YOUR_PROJECT/
+```
 
 Configuration parameters
 ========================
 
 Contributors
-------------
+============
 
 Contributors are welcome. You can find a list ot TODO tasks in the `TODO.md <https://github.com/cr0hn/pretty-dev-docs-github/blob/master/TODO.md>`_ at the project file.
 
