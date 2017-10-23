@@ -26,6 +26,7 @@ pre[class*="language-"] {
 	-moz-hyphens: none;
 	-ms-hyphens: none;
 	hyphens: none;
+	padding-bottom: 5px;
 }
 
 /* Code blocks */
